@@ -94,7 +94,7 @@ end
 
 ### Adding Our Extension to the Spree Application
 
-Before we continue development of our extension, let's add it to the Spree application we created in the [last tutorial](/developer/getting_started.html). This will allow us to see how the extension works with an actual Spree store while we develop it.
+Before we continue development of our extension, let's add it to the Spree application we created in the [last tutorial](/developer/getting_started_tutorial.html). This will allow us to see how the extension works with an actual Spree store while we develop it.
 
 Within the `mystore` application directory, add the following line to the bottom of our `Gemfile`:
 
